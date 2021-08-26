@@ -1,5 +1,10 @@
 # zgulp
 
+其中用到的相关插件安装：
+npm install gulp-uglify gulp-concat --save-dev
+npm install --save-dev gulp-babel @babel/core @babel/preset-env
+
+
 使用gulp对cordova项目中www文件夹下的js进行压缩混淆合并处理，以及我在项目中的使用。
 
 我的cordova iOS项目目录：
